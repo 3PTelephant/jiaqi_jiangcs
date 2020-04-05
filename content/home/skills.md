@@ -21,8 +21,8 @@ subtitle = ""
   description = "C++ Python Matlab"
   
 [[feature]]
-  icon = "fa-drone-alt"
-  icon_pack = "fad"
+  icon = "fa-plane"
+  icon_pack = "fas"
   name = "UAV Development"
   description = "Pixhawk DJI_M100 Bebop2"  
   
