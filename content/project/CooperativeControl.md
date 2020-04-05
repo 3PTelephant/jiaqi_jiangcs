@@ -8,8 +8,8 @@ title = "Cooperative Control"
 
 # Project summary to display on homepage.
 summary = """
- We proposed a complete solution for autonomous landing of a low-cost quadrotor on a moving platform <br>
- 1). [Aerial Survillence System with Multiple UAVs]
+ We use mutiple UAVs to track a ground vehicle and stitch aerial images to have a better surveillance performance <br>
+ 1). [Aerial Surveillance System with Multiple UAVs]
  
  2). [Cooperative Ground Target Tracking]
  
