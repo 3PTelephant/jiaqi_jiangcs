@@ -8,8 +8,9 @@ title = "Cooperative Control"
 
 # Project summary to display on homepage.
 summary = """
- We proposed a complete solution for autonomous landing of a low-cost quadrotor on a moving platform is presented <br>
+ We proposed a complete solution for autonomous landing of a low-cost quadrotor on a moving platform <br>
  1). [Aerial Survillence System with Multiple UAVs]
+ 
  2). [Cooperative Ground Target Tracking]
  
  """
