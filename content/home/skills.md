@@ -18,18 +18,18 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++ Python Matlab"
+  description = "C++, Python, Matlab"
   
 [[feature]]
   icon = "plane"
   icon_pack = "fas"
   name = "UAV Development"
-  description = "Pixhawk DJI_M100 Bebop2 Parrot"  
+  description = "Pixhawk, DJI_M100, Bebop2, Parrot"  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Librabries"
-  description = "Pytorch OpenCV PCL"
+  description = "Pytorch, OpenCV, PCL"
 
 +++
