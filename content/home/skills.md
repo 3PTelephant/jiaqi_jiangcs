@@ -21,15 +21,15 @@ subtitle = ""
   description = "C++ Python Matlab"
   
 [[feature]]
-  icon = "fa-plane"
+  icon = "plane"
   icon_pack = "fas"
   name = "UAV Development"
-  description = "Pixhawk DJI_M100 Bebop2"  
+  description = "Pixhawk DJI_M100 Bebop2 Parrot"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Librabries"
+  description = "Pytorch OpenCV PCL"
 
 +++
