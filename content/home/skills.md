@@ -21,10 +21,10 @@ subtitle = ""
   description = "C++ Python Matlab"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "fa-drone-alt"
+  icon_pack = "fad"
+  name = "UAV Development"
+  description = "Pixhawk DJI_M100 Bebop2"  
   
 [[feature]]
   icon = "camera-retro"
