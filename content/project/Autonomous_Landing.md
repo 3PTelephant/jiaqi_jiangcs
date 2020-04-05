@@ -8,7 +8,7 @@ title = "Vision-based Autonomous Landing"
 
 # Project summary to display on homepage.
 summary = """
- We proposed a complete solution for autonomous landing of a low-cost quadrotor on a moving platform is presented <br>
+ We proposed a complete solution for autonomous landing of a low-cost quadrotor on a moving platform<br>
  1). [Vision-based Landing Pad detection]
  2). [Low-cost Quadrotor Architecture]
  
