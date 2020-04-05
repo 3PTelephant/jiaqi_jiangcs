@@ -14,8 +14,8 @@ role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Liverpool
-  url: ""
+- name: smARTLab at University of Liverpool
+  url: "http://wordpress.csc.liv.ac.uk/smartlab/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sensory synergy, active perception and aerial manipulation.
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
