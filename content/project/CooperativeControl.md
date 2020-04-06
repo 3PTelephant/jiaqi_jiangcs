@@ -21,4 +21,8 @@ summary = """
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://www.educoder.net/paths/130"
 +++
-lalala
+<br>
+During the first year of my master study, I used a ground station based on C# to control two Parrot2 drones. Using the images captured by those drone, we can have a larger field of view.
+
+<br> 
+Then I build a multiple UAVs platform with Bebop2 drones which was used for my master thesis.
