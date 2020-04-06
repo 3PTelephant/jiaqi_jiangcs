@@ -23,12 +23,12 @@ summary = """
 +++
 <br>
 
-**Aerial Surveillance System with Multiple UAVs**
+##Aerial Surveillance System with Multiple UAVs
 
 During the first year of my master study, I used a ground station based on C# to control two Parrot2 drones. Using the images captured by those drone, we can have a larger field of view.
 
 The GUI of the ground station is shown below.
 
-**Cooperative Ground Target Tracking with Multiple UAVs**
+##Cooperative Ground Target Tracking with Multiple UAVs
 
 At the last year, I build a multiple UAVs platform with Bebop2 drones which was used for my master thesis.
