@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I am a first year Ph.D student of smARTLab at the university of Liverpool, under the supervision of Dr. Shan Luo and Dr. Thanh-Toan Do. My research interests include active perception, sensory synergy and aerial manupulation. 
+I am a second year Ph.D student of smARTLab at the university of Liverpool, under the supervision of Dr. Shan Luo and Dr. Thanh-Toan Do. My research interests include active perception, sensory synergy and aerial manupulation. 
 
